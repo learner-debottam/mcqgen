@@ -5,3 +5,7 @@
 ### source activate ./env [to activate the environment]
 
 ### touch .gitignore
+
+### pip list [list of packages install in the current virtual environment]
+
+### pip install -r requirements.txt
